@@ -188,8 +188,6 @@ while True:
     if opcion=="salir":
         break
     print()
-    #print(l_save)
-    #print(l_buy)
 
 
 
